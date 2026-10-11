@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "qiskitPSTcode: code for Perfect and peak state transfer on IBM quantum hardware"
+abstract: >-
+  Accompanying code to the paper "Perfect and peak state transfer on IBM
+  quantum hardware" by Priscilla Awuah and Krystal Guo. The scripts run
+  continuous-time quantum walks with perfect state transfer and peak state
+  transfer on IBM Quantum hardware and on the Aer simulator, and produce the
+  tables and figures of the paper.
+type: software
+authors:
+  - family-names: Awuah
+    given-names: Priscilla
+  - family-names: Guo
+    given-names: Krystal
+    affiliation: University of Amsterdam
+license: MIT
+version: 1.0.0
+keywords:
+  - quantum walks
+  - perfect state transfer
+  - peak state transfer
+  - Qiskit
+  - IBM Quantum
